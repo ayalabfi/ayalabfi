@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ayala
 - 🧑‍💻 Hoje trabalho como suporte técnico.
-- 📚 Aprendendo Java com o programa 1000 Devs e com o professor Nelio Alves.
+- 📚 Evoluindo a cada dia e buscando mais conhecimentos que possam agregar na minha vida pessoal e carreira profissional!
 - ☄️ Sonho em me tornar um programador back-end exemplar!
 ##
 <div align="left">
