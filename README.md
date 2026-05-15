@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e por conhecimento das áreas correlatas e sonho e
  
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/study1.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 
