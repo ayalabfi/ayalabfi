@@ -3,11 +3,25 @@
 - 📚 Evoluindo a cada dia e buscando mais conhecimentos que possam agregar na minha vida pessoal e carreira profissional!
 - ☄️ Sonho em me tornar um programador back-end exemplar!
 ##
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayalabfi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayalabfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">GitHub Stats</h3>
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ayalabfi&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ayalabfi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayala-Java" height="40" width="40" src="https://www.svgrepo.com/show/508921/java.svg">
   <img align="center" alt="Ayala-Arch" height="40" width="40" src="https://www.svgrepo.com/show/341619/arch-linux.svg">
