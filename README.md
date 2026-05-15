@@ -1,8 +1,68 @@
-## Olá! Eu sou o Ayala
-- 🧑‍💻 Hoje trabalho como suporte técnico.
-- 📚 Evoluindo a cada dia e buscando mais conhecimentos que possam agregar na minha vida pessoal e carreira profissional!
-- ☄️ Sonho em me tornar um programador back-end exemplar!
-##
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+#
+
+Me chamo Ayala, tenho 26 anos e sou natural de Uberlândia - MG. 
+Sou formado em Sistemas da informação pela Faculdade Pitâgoras e pós graduado em Programação Orientada a Objetos em Java pela Estácio.
+Sou apaixonado por tecnologia e por conhecimento das áreas correlatas e sonho em me tornar um programador exemplar!
+ 
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Conecte-se comigo!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ayalaborbafilho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ayala-borba-filho/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/aya_borba/)
+
+
+<h3 align="left">Minha Stack</h3>
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<br/>
+<br/>
+
 <h3 align="left">GitHub Stats</h3>
 
 <p>
@@ -22,19 +82,6 @@
   />
 
 </p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ayala-Java" height="40" width="40" src="https://www.svgrepo.com/show/508921/java.svg">
-  <img align="center" alt="Ayala-Arch" height="40" width="40" src="https://www.svgrepo.com/show/341619/arch-linux.svg">
-  <img align="right" alt="Ayala-Cafezim" height="150" width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNrem9tOGNscGg1bHkxbnFxdTNzZG9sNnl5d2M3dXlhZGUxNmM3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ulMMDlZkoOz430SpGY/giphy.gif"">
-</div>
-
-##
-
-<div>
-  <a href="https://www.instagram.com/aya_borba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ayalaborbafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ayala-borba-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayalabfi/ayalabfi/output/github-contribution-grid-snake-dark.svg">
