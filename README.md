@@ -7,7 +7,7 @@
 #
 
 Me chamo Ayala, tenho 26 anos e sou natural de Uberlândia - MG. 
-Sou formado em Sistemas da informação pela Faculdade Pitâgoras e pós graduado em Programação Orientada a Objetos em Java pela Estácio.
+Sou formado em Sistemas da informação pela Faculdade Pitágoras e pós graduado em Programação Orientada a Objetos em Java pela Estácio.
 Sou apaixonado por tecnologia e por conhecimento das áreas correlatas e sonho em me tornar um programador exemplar!
  
 #
